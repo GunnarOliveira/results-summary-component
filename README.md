@@ -29,7 +29,7 @@ Welcome to the solution repository for the **Results Summary Component** challen
 
 ## How to View 🚀
 
-![Click here](https://gunnaroliveira.github.io/results-summary-component/) or
+[Click here](https://gunnaroliveira.github.io/results-summary-component/) or
 
 1. Clone this repository:
 
