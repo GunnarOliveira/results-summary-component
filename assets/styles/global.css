@@ -152,6 +152,10 @@ button {
   border-radius: 2rem;
   padding: 10px 20px;
 }
+button:hover {
+  cursor: pointer;
+  background: var(--gradient-color-01);
+}
 @media (max-width: 475px) {
   body {
     display: initial;
